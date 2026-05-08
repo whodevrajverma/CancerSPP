@@ -12,6 +12,7 @@ Bhalla, S., Kaur, H., Dhall, A., & Raghava, G. P. S. (2019).
 Scientific Reports, 9, 15790.
 https://doi.org/10.1038/s41598-019-52134-4
 
+Data can be found in release section of the Github.
 
 ## About the Database
 
