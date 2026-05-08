@@ -13,6 +13,7 @@ Scientific Reports, 9, 15790.
 https://doi.org/10.1038/s41598-019-52134-4
 
 Data can be found in release section of the Github.
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20079930
 
 ## About the Database
 
