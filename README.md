@@ -1,4 +1,4 @@
-# CancerSPP: Cancer Signaling Pathways & Proteins Database
+# CancerSPP: Prediction and Analysis of Skin Cancer Progression using Genomics Profiles of Patients
 
 **CancerSPP** is a comprehensive, manually curated resource that catalogs proteins involved in various human cancer signaling pathways.
 The database is designed to provide a centralized platform for researchers to explore the complex molecular networks that drive oncogenesis,
